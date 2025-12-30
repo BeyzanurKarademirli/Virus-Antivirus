@@ -1,6 +1,5 @@
 # Virus-Antivirus Eğitim Projesi
 
-⚠️ **UYARI:** Bu proje SADECE EĞİTİM AMAÇLIDIR. Gerçek zararlı yazılım içermez.
 
 ## Proje İçeriği
 
